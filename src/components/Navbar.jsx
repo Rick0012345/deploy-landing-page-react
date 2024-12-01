@@ -19,11 +19,9 @@ function Navbar() {
             <a href="#">HOME</a>
           </li>
           <li>
-            <a href="#">SOBRE NOS</a>
+            <a href="#">SOBRE NÓS</a>
           </li>
-          <li>
-            <a href="/accounts/logout/">LOGOUT</a>
-          </li>
+  
           <li>
             <a
               target="_blank"
